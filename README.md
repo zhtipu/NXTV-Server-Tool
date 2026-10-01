@@ -108,9 +108,6 @@ Press **Reload channels** in the app's Settings. Open the file's server in the a
 **The app does not show my file.**
 Make sure the file is directly inside `/switch/NXTV/servers/` on the card and ends in `.nxtv`. You can also use **Settings → Import a server file** in NX TV to pick it by hand.
 
-## Credits
-
-Developed by **Zahidul Haque Tipu** ([@zhtipu1](https://github.com/zhtipu)).
 ## Disclaimer
 
 This tool reads what servers already provide to you. It does not host or store any video content. You are responsible for making sure you have the right to watch what you stream. Not affiliated with Nintendo or any channel or server operator.
