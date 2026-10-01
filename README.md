@@ -21,6 +21,12 @@ If Windows shows a "protected your PC" warning, choose **More info → Run anywa
 
 ## Quick start
 
+
+
+https://github.com/user-attachments/assets/dd631816-9e05-4773-9325-cc673feb4e14
+
+
+
 1. **Paste the address.** Put the server's website (or the address of its playlist or API) into **Website or API address** at the top left and press **Analyze**.
 2. **Pick a source.** The **Analysis** tab lists what it found, for example "JSON list, 121 channels". Press **Use this** on the one that looks right. The form on the left fills itself in and the channels appear in the **Channels** tab.
 3. **Check it.** Look through the channel list. Type in the filter box to find a channel. Double-click a row to copy that channel's stream address.
