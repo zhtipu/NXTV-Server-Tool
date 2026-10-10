@@ -22,9 +22,9 @@ If Windows shows a "protected your PC" warning, choose **More info → Run anywa
 ## Quick start
 
 
+https://www.youtube.com/watch?v=7CaLQLsBDVk
 
-https://github.com/user-attachments/assets/dd631816-9e05-4773-9325-cc673feb4e14
-
+https://www.youtube.com/watch?v=7vKUzSv2Cm4
 
 
 1. **Paste the address.** Put the server's website (or the address of its playlist or API) into **Website or API address** at the top left and press **Analyze**.
